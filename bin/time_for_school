@@ -36,4 +36,6 @@ erika.learn(some_more_knowledge)
 
 puts "Erika learned even more knowledge: '#{erika.knowledge.last}' from Avi."
 
+puts "#{steve.knowledge}"
+
 puts "#{erika.knowledge}"
